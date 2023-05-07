@@ -1,0 +1,12 @@
+data/
+references/
+.idea/
+notebooks/__pycache__/evaluation.cpython-39.pyc
+notebooks/__pycache__/read_data.cpython-39.pyc
+notebooks/__pycache__/utils.cpython-39.pyc
+cc.sl.300.bin
+cc.sl.300.bin.gz
+notebooks/cc.en.300.bin.gz.part
+notebooks/__pycache__/utils.cpython-39.pyc
+notebooks/__pycache__/utils.cpython-39.pyc
+word2vec/67.zip

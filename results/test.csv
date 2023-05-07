@@ -1,0 +1,3 @@
+model_name,num_topics,topic_representations,topic_diversity,topic_coherence_npmi,topic_coherence_umass,seed
+top2vec,3,"[['cat', 'dog', 'mouse'], ['car', 'motor', 'truck'], ['house', 'apartment', 'flat']]",0.9,1,-1,1
+top2vec,3,"[['cat', 'dog', 'cow'], ['car', 'boat', 'truck'], ['soccer', 'football', 'basketball']]",0.8,2,-1,2

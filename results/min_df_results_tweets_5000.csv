@@ -1,0 +1,3 @@
+model_name,min_df,topic_diversity,topic_coherence_npmi,topic_coherence_umass,seed
+BERTopic,5,0.76,-0.20377167849957137,-11.464281437813032,1
+BERTopic,10,0.44666666666666666,-0.15435897007638782,-8.26255415871631,1
